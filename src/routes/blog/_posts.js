@@ -37,6 +37,7 @@ renderer.code = (code, language) => {
 
 marked.setOptions({ renderer })
 
+const now = new Date()
 const posts = fs.readdirSync(POSTS_DIR)
   .filter(fileName => /\.md$/.test(fileName))
   .map(fileName => {
@@ -68,7 +69,7 @@ const posts = fs.readdirSync(POSTS_DIR)
       printDate,
       printReadingTime,
     }
-  })
+  }).filter(post => new Date(post.date).getTime() < now.getTime())
 
 posts.sort((a, b) => {
   const dateA = new Date(a.date)
