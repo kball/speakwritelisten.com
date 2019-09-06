@@ -47,6 +47,11 @@
 <header>
   <p>{post.printDate} ~ {post.printReadingTime}</p>
   <h1>{post.title}</h1>
+  {#if post.category}
+  <p class="category">
+    <a href="/blog/c/{post.category}">{post.category}</a>
+  </p>
+  {/if}
   <hr />
 </header>
 <div class="container">
