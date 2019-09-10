@@ -19,11 +19,11 @@
 </style>
 
 <div>
-  <img src="profile-pic.png" alt="Maxi Ferreira">
+  <img src="profile-pic.jpg" alt="Kevin Ball">
   <p>
-    Hi, I'm <strong>Maxi</strong>. I'm a software engineer and data scientist from Córdoba, Argentina.
-    You can follow me on <a href="https://www.twitter.com/Charca" target="_blank">Twitter</a>,
-    see some of my work on <a href="https://www.github.com/Charca" target="_blank">GitHub</a>,
-    or read more about me on <a href="https://www.maxiferreira.com" target="_blank">my website</a>.
+    Hi, I'm Kevin Ball (alias <strong>KBall</strong>). I'm a software engineer turned trainer and coach focused on
+    communication and leadership skills.
+    You can follow me on <a href="https://www.twitter.com/kbal11" target="_blank">Twitter</a>,
+    or check out my software-focused work at <a href="https://www.zendev.com" target="_blank">Zendev.com</a>.
   </p>
 </div>
