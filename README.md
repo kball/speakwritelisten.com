@@ -1,6 +1,6 @@
-# sapper-blog-template
+# SpeakWriteListen.com
 
-A starter template for building markdown-powered blogs with [Sapper](https://github.com/sveltejs/sapper) and [Svelte](https://github.com/sveltejs/svelte).
+Started with the [sapper-blog-template](Charca/sapper-blog-template) and extended for things like timed publishing.
 
 ### 👉 [Demo](https://sapper-blog-template.netlify.com/)
 
@@ -39,9 +39,5 @@ This is where your markdown posts live in. All `.md` files in this directory are
 
 ## 🚀 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Charca/sapper-blog-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kball/speakwritelisten.com)
 
-
-## 🐛 Bugs and feedback
-
-Sapper is in early development, and may have the odd rough edge here and there. Please be vocal over on the [Sapper issue tracker](https://github.com/sveltejs/sapper/issues).
