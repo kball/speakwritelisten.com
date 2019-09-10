@@ -46,9 +46,8 @@
 
   <footer>
     <span>
-      &copy; {new Date().getFullYear()} Your Blog.
-      Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
-      Template by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>.
+      &copy; {new Date().getFullYear()} SpeakWriteListen.com.
+      A project of <a href="https://zendev.com" target="_blank">ZenDev, LLC</a>.
     </span>
   </footer>
 </div>
