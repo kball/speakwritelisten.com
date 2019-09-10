@@ -61,13 +61,15 @@
 </style>
 
 <svelte:head>
-  <title>Speak Write Listen</title>
+  <title>Speak. Write. Listen.</title>
+  <meta name="description" content="Become a better communicator. Improve your career, your relationships, and your self-confidence. " />
 </svelte:head>
 
 <div class="home-container">
   <div class="home-copy">
     <h1>Speak. Write. Listen.</h1>
-    <p>Improve your career, your relationships, and your self-confidence.</p>
+    <p>Improve your career, your relationships, and your self-confidence by becoming
+    a better communicator.</p>
   </div>
 
   <figure>
