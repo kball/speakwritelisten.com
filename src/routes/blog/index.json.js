@@ -1,14 +1,6 @@
 import posts from './_posts.js';
 
-const contents = JSON.stringify(posts.map(post => {
-  return {
-    title: post.title,
-    slug: post.slug,
-    category: post.category,
-    excerpt: post.excerpt,
-    printDate: post.printDate,
-  };
-}));
+const contents = JSON.stringify(posts);
 
 export function get(req, res) {
   res.writeHead(200, {

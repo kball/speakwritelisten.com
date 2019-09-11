@@ -1,4 +1,4 @@
-import posts from '../routes/blog/_posts.js';
+import posts from '../../__sapper__/export/blog.json'
 
 const contents = JSON.stringify(posts.map(post => {
   return {
