@@ -70,6 +70,10 @@
   <meta name="description" content="Become a better communicator. Improve your career, your relationships, and your self-confidence. " />
 </svelte:head>
 
+<script>
+import EmailSignup from '../components/EmailSignup.svelte';
+</script>
+
 <div class="home-container">
   <div class="home-copy">
     <h1>Speak. Write. Listen.</h1>
@@ -81,3 +85,8 @@
     <img alt='Person presenting at a conference' src='undraw_conference_uo36.svg'>
   </figure>
 </div>
+<div class="container">
+  <h3>Get Daily Communication Tips</h3>
+  <p>I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
+   <EmailSignup/>
+ </div>
