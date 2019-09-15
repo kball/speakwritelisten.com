@@ -1,3 +1,8 @@
+<script context="module">
+  export function preload({ params, query }) {
+    return this.fetch(`feed`);
+  }
+</script>
 <style>
   .home-container {
     align-items: center;
