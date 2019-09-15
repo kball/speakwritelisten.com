@@ -1,8 +1,10 @@
 <script context="module">
   export function preload({ params, query }) {
-	const { category } = params;
-    return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
-      return { posts: posts.filter(post => post.category == category), category: params.category };
+    const { category } = params;
+    return this.fetch(`blog/c/${category}/rss`).then(() => {
+      return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
+        return { posts: posts.filter(post => post.category == category), category: params.category };
+      });
     });
   }
 </script>
