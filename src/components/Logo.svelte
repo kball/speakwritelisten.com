@@ -1,11 +1,17 @@
 <style>
   img {
     display: block;
-    height: 50px;
-    width: 50px;
+    width: 128px;
+    height: 35px;
+    margin-top: 7px;
+  }
+  @media (min-width: 480px) {
+    img {
+      width: 256px;
+    }
   }
 </style>
 
 <a href="/">
-  <img alt="Sapper" src='logo-192.png'>
+  <img src="speakwritelisten.svg" alt="Speak. Write. Listen.">
 </a>
