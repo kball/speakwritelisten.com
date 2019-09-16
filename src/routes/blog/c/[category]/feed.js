@@ -11,7 +11,7 @@ const render = (category, posts) => `<?xml version="1.0" encoding="UTF-8" ?>
 			<title>${post.title}</title>
 			<link>https://www.speakwritelisten.com/blog/${post.slug}</link>
       <description><![CDATA[
-        ${post.description}
+        ${post.html}
 			]]></description>
 			<pubDate>${new Date(post.date).toUTCString()}</pubDate>
 		</post>
