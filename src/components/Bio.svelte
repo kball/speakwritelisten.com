@@ -1,7 +1,14 @@
+<script>
+  export let longform = false;
+</script>
 <style>
   div {
     align-items: center;
-    display: flex;
+  }
+  @media (min-width: 640px) {
+    div {
+      display: flex;
+    }
   }
 
   img {
@@ -10,14 +17,43 @@
     border-radius: 100px;
     /* border: 3px solid #fd6378; */
     display: block;
-    margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media (min-width: 640px) {
+    img {
+      margin-left: 0;
+      margin-right: 20px;
+    }
   }
 
   p {
     font-size: 1.125rem;
   }
 </style>
+{#if longform}
+<div>
+  <img src="profile-pic.jpg" alt="Kevin Ball">
+  <p>
+    Hi, I'm Kevin Ball (alias <strong>KBall</strong>). I'm a software engineer turned trainer and coach focused on
+    communication and leadership skills, and I started SpeakWriteListen.com because I was frustrated about the lack of
+    practical, actionable resources for people interested in learning better communication skills.
+  </p>
+</div>
+<p>
+  These communication skills have been fundamental to success in my career and relationships.
+  Along with healthy portions of luck and hard work, I believe a focus on communication skills is a huge part of why
+  I've been able to run my own business at <a href="https://zendev.com">ZenDev, LLC</a>, speak around the world at
+  conferences, be a panelist and MC on <a href="https://changelog.com/jsparty">a popular podcast</a>, and celebrate
+  over 20 years in a stable romantic relationship.
+</p>
+<p>
+  With SpeakWriteListen.com, my goal is to share the lessons I've learned along the way, as well as new lessons I
+  discover moving forward. Through the articles, daily tips, and additional resources you will discover here you will
+  be able to learn to speak better, write better, and listen better so that you can live a fuller, more empowered, and happier life.
+</p>
 
+{:else}
 <div>
   <img src="profile-pic.jpg" alt="Kevin Ball">
   <p>
@@ -27,3 +63,4 @@
     or check out my software-focused work at <a href="https://www.zendev.com" target="_blank">Zendev.com</a>.
   </p>
 </div>
+{/if}

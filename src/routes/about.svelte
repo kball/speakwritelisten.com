@@ -1,5 +1,5 @@
 <script>
-  import Bio from '/components/LongformBio.svelte';
+  import Bio from '/components/Bio.svelte';
 </script>
 <style>
   figure {
@@ -90,6 +90,6 @@
 
   <h3>About Me</h3>
 
-  <Bio />
+  <Bio longform="true"/>
 
 </div>
