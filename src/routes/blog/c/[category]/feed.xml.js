@@ -7,14 +7,14 @@ const render = (category, posts) => `<?xml version="1.0" encoding="UTF-8" ?>
   <link>https://www.speakwritelisten.com/c/${category}</link>
 	<description>Posts from ${category} on SpeakWriteListen.com</description>
 	${posts.map(post => `
-		<post>
+		<item>
 			<title>${post.title}</title>
 			<link>https://www.speakwritelisten.com/blog/${post.slug}</link>
       <description><![CDATA[
         ${post.html}
 			]]></description>
 			<pubDate>${new Date(post.date).toUTCString()}</pubDate>
-		</post>
+		</item>
 	`).join('\n')}
 </channel>
 </rss>`;
