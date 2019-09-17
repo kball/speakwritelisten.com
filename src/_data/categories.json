@@ -11,8 +11,12 @@
     "slug": "speaking",
     "name": "Speaking"
   },
-  "questions": {
-    "slug": "questions",
-    "name": "Asking Questions"
+  "writing": {
+    "slug": "writing",
+    "name": "Writing"
+  },
+  "listening": {
+    "slug": "listening",
+    "name": "Listening"
   }
 }

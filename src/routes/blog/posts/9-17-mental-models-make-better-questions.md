@@ -1,7 +1,7 @@
 ---
 title: "Mental models make better questions"
 date: "2019-09-17T15:00:00.000Z"
-category: "daily-tips, questions"
+category: "daily-tips, speaking"
 ---
 
 Continuing on the theme from the last few days about asking questions, let's talk for a minute about how to ask better questions.
