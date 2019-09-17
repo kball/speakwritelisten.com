@@ -6,6 +6,24 @@
   }
 </script>
 <style>
+  .hero {
+    z-index: 1;
+    position: relative;
+    margin-bottom: 2em;
+  }
+  .hero:after {
+    content: " ";
+    display: block;
+    background-color: #c9f4f6;
+    width: 100vw;
+    left: 0;
+    top: 0;
+    height: 100%;
+    position: absolute;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+  }
   .home-container {
     align-items: center;
     display: flex;
@@ -17,6 +35,7 @@
 
   .home-copy {
     flex: 1;
+    margin-right: 4em;
   }
 
   h1 {
@@ -63,6 +82,7 @@
       flex: 0;
       padding-bottom: 2em;
       text-align: center;
+      margin-right: 0;
     }
   }
   .prompt {
@@ -81,6 +101,7 @@
 import EmailSignup from '../components/EmailSignup.svelte';
 </script>
 
+<div class="hero">
 <div class="home-container">
   <div class="home-copy">
     <h1>Speak. Write. Listen.</h1>
@@ -91,6 +112,7 @@ import EmailSignup from '../components/EmailSignup.svelte';
   <figure>
     <img alt='People presenting' src='undraw_presentation.svg'>
   </figure>
+</div>
 </div>
 <div class="container prompt">
   <h3>Get Daily Communication Tips</h3>
