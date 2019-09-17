@@ -2,17 +2,20 @@
 
 </script>
 <style type="text/sass">
-  .email-field-group {
+  @media (min-width: 640px) {
+    .email-field-group {
       display: flex;
-      width: 100%;
-      margin-bottom: 1rem;
+    }
   }
   .email, .button {
-  font-size: 1.3rem;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    width: 100%
   }
   .email {
     flex: 1 1 auto;
     padding: 6px;
+    border: 1px solid #ddd;
   }
   .button {
     border-radius: 0 4px 4px 0;
