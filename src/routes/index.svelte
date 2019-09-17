@@ -82,7 +82,7 @@ import EmailSignup from '../components/EmailSignup.svelte';
   </div>
 
   <figure>
-    <img alt='Person presenting at a conference' src='undraw_conference_uo36.svg'>
+    <img alt='People presenting' src='undraw_presentation.svg'>
   </figure>
 </div>
 <div class="container">

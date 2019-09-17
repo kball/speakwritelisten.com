@@ -17,9 +17,9 @@ The Farnam Street post says "there are no dumb questions", and that's true from 
 
 Then why are we all still uncomfortable with this?
 
-The reason is there are multiple goals behind every communication. There's the immediate objective - learn something we don't know, in this case. But there's also the relationship - how will this impact our relationship with the people we're talking with? And there's a respect/self-respect aspect: How will this change the way people view and treat me?
+The reason is there are multiple goals behind every communication. There's the immediate objective &mdash; learn something we don't know, in this case. But there's also the relationship &mdash; how will this impact our relationship with the people we're talking with? And there's a respect/self-respect aspect: How will this change the way people view and treat me?
 
-The reason we're worried about dumb questions is we're paying attention to the relationship and self respect pieces. Those are key aspects of communication, and the simple "there are no dumb questions" rule ignores them.
+The reason we're worried about dumb questions is we're paying attention to the relationship and self-respect pieces. Those are key aspects of communication, and the simple "there are no dumb questions" rule ignores them.
 
 So you're right to be uncomfortable. And yet.
 

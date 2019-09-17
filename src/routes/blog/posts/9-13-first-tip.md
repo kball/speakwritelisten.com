@@ -14,10 +14,10 @@ There was a point where she was asking us to respond to something, and I didn't 
 
 So I asked her, straight up: "Hey, I may be alone in this, but I feel kinda lost. Can you step back and explain what some of these acronyms are and give some more context for what you're trying to tell us?"
 
-It was *super* uncomfortable. I was uncomfortable. And she was uncomfortable. But she did it. She explained what some of the context were, and the acronyms. It wasn't a perfect explanation, but it was enough.
+It was *super* uncomfortable. I was uncomfortable. And she was uncomfortable. But she did it. She explained some context, and the acronyms. It wasn't a perfect explanation, but it was enough.
 
 From there forward, we as a group had a much more engaged conversation and back-and-forth, turning what had felt like a potential flop of a presentation into a great discussion.
 
-So what's the lesson? Ask questions if you dodn't understand!
+So what's the lesson? Ask questions if you don't understand!
 
 It feels super uncomfortable, but it almost always helps, and in any sort of group setting there's going to be other people with your same question who are just afraid to ask.

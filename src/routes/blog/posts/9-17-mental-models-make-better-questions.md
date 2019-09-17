@@ -14,7 +14,7 @@ We talked [yesterday](https://www.speakwritelisten.com/blog/9-16-there-are-no-du
 
 But how can we take it a step further and ask particularly good questions?
 
-We're often told we should asks questions in interviews and other setting. There are whole lists about ["smart questions to ask a hiring manager"](https://www.topresume.com/career-advice/13-of-the-smartest-questions-to-ask-a-hiring-manager) and ["10 perfect questions to ask on a first date"](https://www.joinonelove.org/learn/10-perfect-questions-to-ask-on-the-first-date-to-really-get-to-know-someone/), but what's the common theme?
+We're often told we should ask questions in interviews and other setting. There are whole lists about ["smart questions to ask a hiring manager"](https://www.topresume.com/career-advice/13-of-the-smartest-questions-to-ask-a-hiring-manager) and ["10 perfect questions to ask on a first date"](https://www.joinonelove.org/learn/10-perfect-questions-to-ask-on-the-first-date-to-really-get-to-know-someone/), but what's the common theme?
 
 ### Mental Models
 
@@ -30,7 +30,7 @@ The great thing about knowing this common theme is that you now have a recipe fo
 
 Want to ask better questions at work meetings? Try to fit any new information into your model for how the business works, and ask questions that fill in the gaps. "How will this interact with our existing systems?" or "What are the business implications of this project?"
 
-Want to ask better questions of your kids? Same thing - keep building a mental model for how their world works, and ask questions that fill in the gaps.
+Want to ask better questions of your kids? Same thing &mdash; keep building a mental model for how their world works, and ask questions that fill in the gaps.
 
 Want to ask good questions of a mentor or teacher? Try to build up a mental model of everything they're teaching you, and ask questions that fill in the gaps.
 

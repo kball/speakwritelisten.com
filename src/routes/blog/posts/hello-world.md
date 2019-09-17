@@ -38,7 +38,7 @@ The goal of this website is to make you a better communicator. There is much mor
 
   <h3>Better communication means better lives</h3>
 
-  <p>Communication is key to healthy relationships, career advancement, and self expression.</p>
+  <p>Communication is key to healthy relationships, career advancement, and self-expression.</p>
 
   <p>Communication skills are consistently one of the <a href="https://www.thebalancecareers.com/top-skills-employers-want-2062481">top in-demand skills for
   employers</a>.</p>
