@@ -14,10 +14,11 @@
   }
   .email {
     flex: 1 1 auto;
-    padding: 6px;
+    padding: 10px;
     border: 1px solid #ddd;
   }
   .button {
+    flex: 1 1 0;
     border-radius: 0 4px 4px 0;
     margin-left: -2px;
   }
