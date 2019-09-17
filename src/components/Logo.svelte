@@ -1,17 +1,28 @@
 <style>
   img {
     display: block;
-    width: 128px;
     height: 35px;
     margin-top: 7px;
   }
-  @media (min-width: 480px) {
-    img {
-      width: 256px;
+  .small {
+    width: 64px;
+  }
+  .large {
+    display: none;
+    width: 256px;
+  }
+  @media (min-width: 640px) {
+    .small {
+      display: none;
+    }
+    .large {
+      display: block;
     }
   }
+
 </style>
 
 <a href="/">
-  <img src="speakwritelisten.svg" alt="Speak. Write. Listen.">
+  <img class="logo small" src="swl.svg" alt="Speak. Write. Listen.">
+  <img class="logo large" src="speakwritelisten.svg" alt="Speak. Write. Listen.">
 </a>
