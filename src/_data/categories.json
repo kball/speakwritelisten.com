@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "general",
+    "name": "General"
+  },
+  "daily-tips": {
+    "slug": "daily-tips",
+    "name": "Daily Tips"
+  },
+  "speaking": {
+    "slug": "speaking",
+    "name": "Speaking"
+  },
+  "questions": {
+    "slug": "questions",
+    "name": "Asking Questions"
+  }
+}

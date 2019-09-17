@@ -1,4 +1,6 @@
 import resolve from 'rollup-plugin-node-resolve';
+import json from 'rollup-plugin-json';
+import rootImport from 'rollup-plugin-root-import';
 import replace from 'rollup-plugin-replace';
 import commonjs from 'rollup-plugin-commonjs';
 import svelte from 'rollup-plugin-svelte';
@@ -24,11 +26,18 @@ const markdown = () => ({
 	}
 });
 
+console.log(`${__dirname}/src/`);
 export default {
 	client: {
 		input: config.client.input(),
 		output: config.client.output(),
-		plugins: [
+    plugins: [
+      json(),
+      rootImport({
+        root: `${__dirname}/src/`,
+        useEntry: 'prepend',
+        extensions: '.js'
+      }),
 			replace({
 				'process.browser': true,
 				'process.env.NODE_ENV': JSON.stringify(mode)
@@ -73,6 +82,12 @@ export default {
 		input: config.server.input(),
 		output: config.server.output(),
 		plugins: [
+      json(),
+      rootImport({
+        root: `${__dirname}/src`,
+        useEntry: 'prepend',
+        extensions: '.js'
+      }),
 			replace({
 				'process.browser': false,
 				'process.env.NODE_ENV': JSON.stringify(mode)
@@ -105,6 +120,12 @@ export default {
 				'process.env.NODE_ENV': JSON.stringify(mode)
 			}),
 			commonjs(),
+      json(),
+      rootImport({
+        root: `${__dirname}/src`,
+        useEntry: 'prepend',
+        extensions: '.js'
+      }),
 			!dev && terser()
 		],
 

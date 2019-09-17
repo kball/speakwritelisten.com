@@ -23,7 +23,10 @@ export function get(req, res, next) {
   const { category } = req.params;
 
 	res.setHeader('Cache-Control', `max-age=0, s-max-age=${600}`); // 10 minutes
-	res.setHeader('Content-Type', 'application/rss+xml');
-  const feed = render(category, posts.filter(post => post.category == category));
+  res.setHeader('Content-Type', 'application/rss+xml');
+  const applicablePosts = posts.filter((post) => {
+    return post.categories.some(c => c.slug === category);
+  });
+  const feed = render(category, applicablePosts);
   res.end(feed);
 }

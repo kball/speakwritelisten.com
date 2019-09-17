@@ -1,7 +1,7 @@
 ---
 title: "'There are no dumb questions'"
 date: "2019-09-16T15:00:00.000Z"
-category: "daily-tips"
+category: "daily-tips, questions"
 ---
 I was just reading a post on asking questions from Farnam Street, and was struck by the statement "there are no dumb questions". 
 

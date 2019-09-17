@@ -5,6 +5,7 @@ const marked = require('marked')
 const matter = require('gray-matter')
 const formatDate = require('date-fns/format')
 const readingTime = require('reading-time')
+import categoryOptions from '../../_data/categories.json';
 
 // Support JSX syntax highlighting
 require('prismjs/components/prism-jsx.min')
@@ -44,6 +45,8 @@ const posts = fs.readdirSync(POSTS_DIR)
     const fileMd = fs.readFileSync(path.join(POSTS_DIR, fileName), 'utf8')
     const { data, content: rawContent } = matter(fileMd)
     const { title, date, category } = data
+    const categorySlugs = category.split(",").map(c => c.trim());
+    const categories = categorySlugs.map(s => categoryOptions[s])
     const slug = fileName.split('.')[0]
     let content = rawContent
     let excerpt = ''
@@ -62,7 +65,7 @@ const posts = fs.readdirSync(POSTS_DIR)
     return {
       title: title || slug,
       slug,
-      category,
+      categories,
       html,
       date,
       excerpt,

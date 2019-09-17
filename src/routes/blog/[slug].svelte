@@ -38,6 +38,13 @@
     min-width: 100px;
     width: 30%;
   }
+  .category a {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    position: relative;
+    display: inline-block
+  }
+
 </style>
 
 <svelte:head>
@@ -47,11 +54,11 @@
 <header>
   <p>{post.printDate} ~ {post.printReadingTime}</p>
   <h1>{post.title}</h1>
-  {#if post.category}
   <p class="category">
-    <a href="/blog/c/{post.category}">{post.category}</a>
+  {#each post.categories as category}
+    <a href="/blog/c/{category.slug}">{category.name}</a>
+    {/each}
   </p>
-  {/if}
   <hr />
 </header>
 <div class="container">

@@ -1,9 +1,13 @@
 <script context="module">
+  import categories from '/_data/categories.json';
   export function preload({ params, query }) {
-    const { category } = params;
-    return this.fetch(`blog/c/${category}/feed.xml`).then(() => {
+    const category = categories[params.category];
+    return this.fetch(`blog/c/${category.slug}/feed.xml`).then(() => {
       return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
-        return { posts: posts.filter(post => post.category == category), category: params.category };
+        const applicablePosts = posts.filter((post) => {
+          return post.categories.some(c => c.slug === category.slug);
+        });
+        return { posts: applicablePosts, category: category };
       });
     });
   }
@@ -34,11 +38,11 @@
 </style>
 
 <svelte:head>
-  <title>{category}</title>
+  <title>{category.name}</title>
 </svelte:head>
 
 <div class="container">
-  <h1>{category}</h1>
+  <h1>{category.name}</h1>
   {#each posts as post, index}
     {#if index}
       <hr />
