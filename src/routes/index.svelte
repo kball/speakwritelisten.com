@@ -63,6 +63,11 @@
       text-align: center;
     }
   }
+  .prompt {
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ddd;
+  }
 </style>
 
 <svelte:head>
@@ -85,8 +90,23 @@ import EmailSignup from '../components/EmailSignup.svelte';
     <img alt='People presenting' src='undraw_presentation.svg'>
   </figure>
 </div>
-<div class="container">
+<div class="container prompt">
   <h3>Get Daily Communication Tips</h3>
   <p>I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
    <EmailSignup/>
+ </div>
+
+ <div class="container">
+   <h3>About SpeakWriteListen.com</h3>
+    <p>This website is about making you a better communicator. It's filled with techniques, lessons learned, and quick tips that you can use to improve your life.</p>
+    <p>The premise is simple:</p>
+
+    <ol>
+      <li>We all communicate</li>
+      <li>Better communication means better lives</li>
+      <li>Communication skills are learnable</li>
+    </ol>
+
+    <p>Right now, the best place to get started is by checking out out some of our <a href="/blog">recent articles</a>.</p>
+
  </div>

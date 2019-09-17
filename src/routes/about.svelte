@@ -1,3 +1,6 @@
+<script>
+  import Bio from '/components/LongformBio.svelte';
+</script>
 <style>
   figure {
     float: right;
@@ -29,7 +32,7 @@
   </figure>
 
   <p>This website is about making you a better communicator. It's filled with techniques, lessons learned, and quick tips that you can use to improve your life.</p>
-  <p>Our premise is simple:</p>
+  <p>The premise is simple:</p>
 
 	<ol>
 		<li>We all communicate</li>
@@ -41,7 +44,7 @@
   <p>We text, we tweet, we gossip, we grunt, we yell, we beg. From the moment we're born, even before we learn to speak, we're communicating our thoughts and intentions.</p>
   <p>Communication is part of being human.</p>
 
-  <p>But just because we call communicate doesn't mean communication is <i>easy</i>.</p>
+  <p>But just because we all communicate doesn't mean communication is <i>easy</i>.</p>
   <p>Speaking, writing, and listening effectively is incredibly hard for most of us.</p>
 
   <p>Public speaking is the <a
@@ -57,7 +60,7 @@
 
   <h3>Better communication means better lives</h3>
 
-  <p>Communication is key to healthy relationships, career advancement, and self expression.</p>
+  <p>Communication is key to healthy relationships, career advancement, and self-expression.</p>
 
   <p>Communication skills are consistently one of the <a href="https://www.thebalancecareers.com/top-skills-employers-want-2062481">top in-demand skills for
   employers</a>.</p>
@@ -82,8 +85,11 @@
 
   <p>This type of vague and general advice does learners a disservice. </p>
 
-  <p>We believe communication skills are learnable, and our articles are all focused on giving you concrete things you
+  <p>I believe communication skills are learnable, and the articles on this site are all focused on giving you concrete things you
   can do to improve either your understanding or your skills.</p>
 
+  <h3>About Me</h3>
+
+  <Bio />
 
 </div>
