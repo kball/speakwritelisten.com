@@ -3,6 +3,11 @@ title: "'There are no dumb questions'"
 date: "2019-09-16T15:00:00.000Z"
 category: "daily-tips"
 ---
+I was just reading a post on asking questions from Farnam Street, and was struck by the statement "there are no dumb questions". 
+
+I know a lot of people I talk to certainly are worried about asking dumb questions. And it makes sense! We don't want to look dumb, especially in front of people whose opinions we value.
+
+<!-- more -->
 
 I was just reading a [post on asking questions](https://fs.blog/2019/09/power-questions/) from Farnam Street, and was struck by the statement "there are no dumb questions". 
 
