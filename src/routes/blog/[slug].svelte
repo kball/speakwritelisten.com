@@ -14,7 +14,8 @@
 </script>
 
 <script>
-  import Bio from '../../components/Bio.svelte'
+  import Bio from '/components/Bio.svelte'
+  import EmailSignup from '/components/EmailSignup.svelte'
   export let post
 </script>
 
@@ -66,5 +67,9 @@
     {@html post.html}
   </article>
   <hr />
+  <p>Like what you read? You might be interested in my daily communication tips. I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.
+  </p>
+  <EmailSignup />
+  <hr/>
   <Bio />
 </div>
