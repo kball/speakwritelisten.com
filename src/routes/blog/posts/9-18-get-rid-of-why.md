@@ -22,7 +22,7 @@ If you want to instantly improve your communication skills, banish the word 'why
 
 The idea that how we say things shouldn't matter is seductive, especially to engineers like me. After all, I can write the same computer program in many different ways, and if the outcome is the same, the users of that program don't really care how it was written.
 
-This approach misses the detail that when we are speaking, we are trying to influence a person, not am machine. 
+This approach misses the detail that when we are speaking, we are trying to influence a person, not a machine. 
 
 People have all sorts of different quirks about the way we hear and understand things. We have cognitive limitations that limit how much we can perceive at once. We have different mental models we're bringing to a conversation.
 
