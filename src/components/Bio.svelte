@@ -41,16 +41,15 @@
   </p>
 </div>
 <p>
-  These communication skills have been fundamental to success in my career and relationships.
-  Along with healthy portions of luck and hard work, I believe a focus on communication skills is a huge part of why
-  I've been able to run my own business at <a href="https://zendev.com">ZenDev, LLC</a>, speak around the world at
-  conferences, be a panelist and MC on <a href="https://changelog.com/jsparty">a popular podcast</a>, and celebrate
-  over 20 years in a stable romantic relationship.
+  Along with healthy portions of luck and hard work, I believe a focus on communication skills has been fundamental to
+  my personal and professional success. My ability to speak, write, and listen effectively is a huge part of why I've
+  been able to run my own business at <a href="https://zendev.com">ZenDev, LLC</a>, speak around the world at
+  conferences, be a regular contributor on a <a href="https://changelog.com/jsparty">popular podcast</a>, and celebrate over 20 years in a stable romantic relationship.
+
 </p>
 <p>
-  With SpeakWriteListen.com, my goal is to share the lessons I've learned along the way, as well as new lessons I
-  discover moving forward. Through the articles, daily tips, and additional resources you will discover here you will
-  be able to learn to speak better, write better, and listen better so that you can live a fuller, more empowered, and happier life.
+With SpeakWriteListen.com, my goal is to share the lessons I've learned along the way, as well as create a place to <a
+href="https://www.swyx.io/writing/learn-in-public/">learn in public</a> about communication skills. Through the articles, daily tips, and linked resources you can learn to speak better, write better, and listen better so that you can live a fuller, more empowered, and happier life.
 </p>
 
 {:else}
