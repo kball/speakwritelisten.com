@@ -1,5 +1,6 @@
 <script>
   import Bio from '/components/Bio.svelte';
+  import SharedHead from '/components/SharedHead.svelte';
 </script>
 <style>
   figure {
@@ -20,9 +21,10 @@
   }
 </style>
 
-<svelte:head>
-  <title>About</title>
-</svelte:head>
+<SharedHead title="About SpeakWriteListen.com"
+  description="This website is about making you a better communicator. It's filled with techniques, lessons learned, and quick tips that you can use to improve your life."
+  image="rsz_florian-klauer-489-unsplash.jpg"
+/>
 
 <div class="container">
   <h1>About</h1>

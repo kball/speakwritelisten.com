@@ -16,6 +16,7 @@
 <script>
   import Bio from '/components/Bio.svelte'
   import EmailSignup from '/components/EmailSignup.svelte'
+  import SharedHead from '/components/SharedHead.svelte';
   export let post
 </script>
 
@@ -48,9 +49,10 @@
 
 </style>
 
-<svelte:head>
-  <title>{post.title}</title>
-</svelte:head>
+<SharedHead title={post.title}
+  description={post.excerpt}
+  blogPost={post}
+/>
 
 <header>
   <p>{post.printDate} ~ {post.printReadingTime}</p>

@@ -8,6 +8,7 @@
 
 <script>
   export let posts
+  import SharedHead from '/components/SharedHead.svelte';
   import EmailSignup from '../components/EmailSignup.svelte';
 </script>
 
@@ -28,9 +29,9 @@ h1 {
 }
 
 </style>
-<svelte:head>
-  <title>Speak Write Listen Newsletter</title>
-</svelte:head>
+<SharedHead title="SpeakWriteListen.com Newsletter"
+  description="A short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve."
+/>
 
 <div class="container">
   <h1>Daily Communication Tips</h1>

@@ -92,14 +92,12 @@
   }
 </style>
 
-<svelte:head>
-  <title>Speak. Write. Listen.</title>
-  <meta name="description" content="Become a better communicator. Improve your career, your relationships, and your self-confidence. " />
-</svelte:head>
-
 <script>
 import EmailSignup from '../components/EmailSignup.svelte';
+import SharedHead from '/components/SharedHead.svelte';
 </script>
+
+<SharedHead image='logo-512.png' />
 
 <div class="hero">
 <div class="home-container">
