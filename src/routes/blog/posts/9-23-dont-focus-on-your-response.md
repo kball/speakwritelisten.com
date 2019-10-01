@@ -8,6 +8,13 @@ When listening to someone say something that you disagree with, it's super commo
 
 This is a mistake. 
 
+<!-- more -->
+
+When listening to someone say something that you disagree with, it's super common to start thinking about how you're going to respond.
+
+This is a mistake. 
+
+
 The moment you start thinking about your response, you've stopped listening to the person speaking.
 
 ### Jumping to conclusions

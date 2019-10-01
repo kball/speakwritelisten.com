@@ -6,6 +6,10 @@ category: "daily-tips, listening"
 
 Language is so imprecise a tool for communicating. We're trying to get ideas across, but all we have are words that imperfectly represent those ideas.
 
+<!-- more -->
+
+Language is so imprecise a tool for communicating. We're trying to get ideas across, but all we have are words that imperfectly represent those ideas.
+
 Even when we both speak the same language, the ideas can easily get lost in translation.
 
 I've run into this a lot as a software engineer. I'll listen to a client describe what they want, go off and try to build it, and then come back and it turns out what I heard was nothing like what they had in mind.
