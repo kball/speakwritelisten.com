@@ -17,7 +17,7 @@ const render = (pages, categories, posts) => `<?xml version="1.0" encoding="UTF-
   ${posts.map(post => `
     <url>
       <loc>https://www.speakwritelisten.com/blog/${post.slug}</loc>
-      <lastmod>${new Date(post.date).toUTCString()}</lastmod>
+      <lastmod>${new Date(post.date).toISOString()}</lastmod>
     </url>
   `).join('\n')}
 </urlset>
