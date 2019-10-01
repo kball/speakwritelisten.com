@@ -59,6 +59,7 @@ $: {
   <meta property="og:title" content="{title}" />
   {#if finalImage}
   <meta property="og:image" content="{finalImage}" />
+  <meta property="twitter:image" content="{finalImage}" />
   <meta name="twitter:card" content="summary_large_image" />
   {:else}
   <meta name="twitter:card" content="summary" />
