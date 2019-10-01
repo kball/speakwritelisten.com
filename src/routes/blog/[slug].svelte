@@ -1,12 +1,14 @@
 <script context="module">
-  export async function preload({ params, query }) {
+  export async function preload({ path, params, query }) {
     // the `slug` parameter is available because
     // this file is called [slug].html
     const res = await this.fetch(`blog/${params.slug}.json`);
     const data = await res.json();
 
+    const url = `https://www.speakwritelisten.com${path}`;
+
     if (res.status === 200) {
-      return { post: data };
+      return { post: data, url: url };
     } else {
       this.error(res.status, data.message);
     }
@@ -17,7 +19,9 @@
   import Bio from '/components/Bio.svelte'
   import EmailSignup from '/components/EmailSignup.svelte'
   import SharedHead from '/components/SharedHead.svelte';
+  import ShareButtons from '/components/ShareButtons.svelte';
   export let post
+  export let url
 </script>
 
 <style>
@@ -62,12 +66,15 @@
     <a href="/blog/c/{category.slug}">{category.name}</a>
     {/each}
   </p>
+  <ShareButtons url={url} title={post.title} />
   <hr />
 </header>
 <div class="container">
   <article class="content">
     {@html post.html}
   </article>
+  <hr />
+  <ShareButtons url={url} title={post.title} />
   <hr />
   <p>Like what you read? You might be interested in my daily communication tips. I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.
   </p>
