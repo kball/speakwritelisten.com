@@ -1,6 +1,6 @@
 ---
 title: "Get rid of 'why'"
-date: "2019-09-18T15:00:00.000Z"
+date: "2019-09-25T15:00:00.000Z"
 category: "daily-tips, speaking"
 ---
 

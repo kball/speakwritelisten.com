@@ -1,6 +1,6 @@
 ---
 title: First Tip! Ask when you don't understand.
-date: "2019-09-13T08:38:00.000Z"
+date: "2019-09-20T08:38:00.000Z"
 category: "daily-tips, speaking"
 ---
 

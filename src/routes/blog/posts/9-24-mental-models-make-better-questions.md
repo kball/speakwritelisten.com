@@ -1,6 +1,6 @@
 ---
 title: "Mental models make better questions"
-date: "2019-09-17T15:00:00.000Z"
+date: "2019-09-24T15:00:00.000Z"
 category: "daily-tips, speaking"
 ---
 

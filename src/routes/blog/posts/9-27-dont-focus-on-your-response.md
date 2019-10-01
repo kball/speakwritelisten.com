@@ -1,6 +1,6 @@
 ---
 title: "Don't focus on your response"
-date: "2019-09-23T08:38:00.000Z"
+date: "2019-09-27T08:38:00.000Z"
 category: "daily-tips, listening"
 ---
 
