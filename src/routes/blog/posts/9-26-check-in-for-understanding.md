@@ -1,6 +1,6 @@
 ---
 title: Check in for understanding
-date: "2019-09-26:38:00.000Z"
+date: "2019-09-26T08:38:00.000Z"
 category: "daily-tips, listening"
 ---
 
