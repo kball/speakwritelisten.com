@@ -53,11 +53,6 @@
   href="https://www.psychologytoday.com/us/blog/the-real-story-risk/201211/the-thing-we-fear-more-death">number one
   fear in America</a>.
 
-  <p>While <a href="https://www.iamselfpublishing.com/90-americans-want-to-write-a-book/">90% of people may claim they
-  want to write a book</a>, <a
-  href="http://sharonzink.com/writing-tips/97-of-writers-never-finish-their-novels-heres-why/">97% never
-  finish</a>.</p>
-
   <p>This stuff is hard. But we all do it.</p>
 
   <h3>Better communication means better lives</h3>
