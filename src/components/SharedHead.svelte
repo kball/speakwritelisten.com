@@ -8,6 +8,9 @@ export let authorTwitter = "@kbal11"
 export let blogPost = null;
 export let image = null;
 
+
+let finalImage = image;
+
 let path;
 $: url = `https://www.speakwritelisten.com${path}`
 page.subscribe((obj) => {
@@ -35,6 +38,7 @@ $: {
     }
 
     if (blogPost.image) {
+      finalImage = blogPost.image;
       ldJson.image = blogPost.image;
     }
   } else {
@@ -53,8 +57,16 @@ $: {
   <link rel="canonical" href="{url}" />
   <meta property="og:url" content="{url}" />
   <meta property="og:title" content="{title}" />
+  {#if finalImage}
+  <meta property="og:image" content="{finalImage}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  {:else}
+  <meta name="twitter:card" content="summary" />
+  {/if}
+  <meta property="og:title" content="{title}" />
   <meta name="description" content="{description}" />
   <meta name="og:description" content="{description}" />
+  <meta name="twitter:site" content="@speakwritelisten" />
   <meta name="twitter:creator" content="{authorTwitter}" />
   {#if blogPost}
   <meta property="og:type" content="article" />
