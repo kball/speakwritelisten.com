@@ -67,7 +67,7 @@ $: {
   <meta property="og:title" content="{title}" />
   <meta name="description" content="{description}" />
   <meta name="og:description" content="{description}" />
-  <meta name="twitter:site" content="@speakwritelisten" />
+  <meta name="twitter:site" content="@speakwritelist" />
   <meta name="twitter:creator" content="{authorTwitter}" />
   {#if blogPost}
   <meta property="og:type" content="article" />
