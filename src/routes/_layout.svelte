@@ -39,7 +39,7 @@
 <svelte:head>
   <meta property="og:locale" content="en_US" />
   <meta property="og:site_name" content="Speak. Write. Listen." />
-  <meta name="twitter:site" content="@speakwritelisten" />
+  <meta name="twitter:site" content="@speakwritelist" />
 </svelte:head>
 
 
