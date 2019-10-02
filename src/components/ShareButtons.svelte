@@ -54,7 +54,7 @@ const dims = windowHeightAndWidth();
   .facebook {
     background-color: #4172B8;
   }
-  .linkedin {
+  .social .linkedin {
     background-color: #0077B5;
     padding: 5px 5px 10px;
   }
