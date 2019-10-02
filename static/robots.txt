@@ -1,0 +1,3 @@
+# robots.txt for https://www.speakwritelisten.com/
+
+Sitemap: https://www.speakwritelisten.com/sitemap.xml

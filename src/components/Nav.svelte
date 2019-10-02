@@ -49,8 +49,8 @@
 </style>
 
 <nav>
-  <a class='{segment === undefined ? "selected" : ""}' href='.'>home</a>
-  <a class='{segment === "about" ? "selected" : ""}' href='about'>about</a>
-  <a rel=prefetch class='{segment === "newsletter" ? "selected" : ""}' href='newsletter'>tips</a>
-  <a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a>
+  <a class='{segment === undefined ? "selected" : ""}' href='/'>home</a>
+  <a class='{segment === "about" ? "selected" : ""}' href='/about'>about</a>
+  <a rel=prefetch class='{segment === "newsletter" ? "selected" : ""}' href='/newsletter'>tips</a>
+  <a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='/blog'>blog</a>
 </nav>
