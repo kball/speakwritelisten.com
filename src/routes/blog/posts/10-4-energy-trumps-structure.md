@@ -1,7 +1,7 @@
 ---
 title: "Energy Trumps Structure"
 date: "2019-10-04T08:38:00.000Z"
-category: "daily-tips, energy"
+category: "daily-tips, speaking"
 ---
 
 It's really easy when you start to geek out about speaking to try to do everything right.
