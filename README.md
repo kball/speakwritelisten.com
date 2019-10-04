@@ -1,43 +1,16 @@
 # SpeakWriteListen.com
 
-Started with the [sapper-blog-template](Charca/sapper-blog-template) and extended for things like timed publishing.
 
-### 👉 [Demo](https://sapper-blog-template.netlify.com/)
+This is the source code for the SpeakWriteListen[https://www.speakwritelisten.com] website.
 
-## ✨ Getting started
+It started with the [sapper-blog-template](Charca/sapper-blog-template) and has been extended for things like timed publishing, automatic og:image generation, and more.
 
-```bash
-npx degit Charca/sapper-blog-template my-blog
-cd my-blog
-npm install # or yarn!
-npm run dev
-```
 
-Open up [localhost:3000](http://localhost:3000) and start clicking around.
+## License
+The following directories and their contents are Copyright Kevin Ball. You may not reuse anything therein without my permission:
 
-Consult [sapper.svelte.dev](https://sapper.svelte.dev) for help getting started.
+src/routes/blog/_posts/
+drafts
+static/
 
-## 🏗 Structure
-
-The base structure of this template is the same as Sapper's [default template](https://github.com/sveltejs/sapper-template/). These are some of the new things you'll find here:
-
-### src/routes/blog
-
-This is the home of your blog. The most important files in here are:
-
-- `_posts.js`: this module contains the logic for loading and parsing your markdown posts.
-- `[slug].svelte`: this is the template of your blog post page.
-- `index.svelte`: this is the template of your article list page.
-
-### src/routes/blog/posts
-
-This is where your markdown posts live in. All `.md` files in this directory are treated as blog posts and parsed automatically by the `_posts.js` module.
-
-- The markdown file name becomes the post slug. For example `hello-world.md` becomes `http://localhost:3000/blog/hello-world`.
-- Everything between the start of the post and the `<!-- more -->` tag becomes the article's "excerpt".
-- Frontmatter properties supported are `title` and `date`.
-
-## 🚀 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kball/speakwritelisten.com)
-
+All other directories and files are MIT Licensed. Feel free to use the HTML, CSS, and JavaScript as you please. If you do use them, a link back to https://github.com/kball/speakwritelisten.com would be appreciated, but is not required.
