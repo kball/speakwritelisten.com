@@ -40,6 +40,9 @@ $: {
     if (blogPost.image) {
       finalImage = blogPost.image;
       ldJson.image = blogPost.image;
+    } else {
+      finalImage = `https://www.speakwritelisten.com/og_image/posts/${blogPost.slug}.png`;
+      ldJson.image = finalImage;
     }
   } else {
     ldJson["@type"] = "WebPage";

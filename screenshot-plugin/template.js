@@ -123,7 +123,7 @@ function getCss(theme, fontSize) {
       font-style: normal;
       color: ${foreground};
       line-height: 1.25;
-      width: 55vw;
+      width: 53vw;
       padding-left: 45vw;
       flex: 1;
       display: flex;
@@ -142,8 +142,9 @@ function getCss(theme, fontSize) {
 
     .footer {
       padding: 2rem;
+      padding-left: 50vw;
       width: 40vw;
-      font-size: 3rem;
+      font-size: 1.5rem;
       display: flex;
       justify-content: space-between;
     }

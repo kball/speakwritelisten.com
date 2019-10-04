@@ -9,7 +9,7 @@
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "screenshot": "node screenshot-plugin/cli.js",
+    "screenshot": "node screenshot-plugin/generate-post-images",
     "test": "run-p --race dev cy:run"
   },
   "dependencies": {
