@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
-    "export": "sapper export --legacy && netlify-lambda build src/netlify-functions",
+    "export": "node screenshot-plugin/generate-post-images && sapper export --legacy && netlify-lambda build src/netlify-functions",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
