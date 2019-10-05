@@ -2,7 +2,7 @@
 <script>
   export let title;
   export let url;
-  export let via = 'speakwritelisten'
+  export let via = 'speakwritelist'
 
   const encodedTitle =encodeURIComponent(title);
   const twitterUrl = `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${url}&via=${via}`
