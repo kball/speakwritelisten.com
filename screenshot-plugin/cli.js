@@ -5,8 +5,7 @@ const screenshot = require('./screenshot')
     [
       [
         'writing/waterfall',
-        'Waterfall',
-        'What Software, Business, and the Chainsmokers have in common'
+        'Short text'
       ]
       // ['writing', "swyx's Blogposts and Writing"],
       // ['speaking', "swyx's Talks and Podcasts"]

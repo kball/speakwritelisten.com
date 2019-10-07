@@ -35,7 +35,7 @@ async function screenshot(
       subtitle,
       theme: 'light',
       md: true,
-      fontSize: Math.min(16, Math.max(7, Math.floor(80 / text.length))) + 'vw'
+      fontSize: Math.min(16, Math.max(5, Math.floor(80 / text.length))) + 'vw'
     })
     await page.setContent(html)
     await page.screenshot({ path: filePath })
