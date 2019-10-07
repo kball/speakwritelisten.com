@@ -1,4 +1,12 @@
+---
+title: "Human Skills Are Not Soft Skills"
+date: "2019-10-08T08:38:00.000Z"
+category: "daily-tips, speaking, writing, listening"
+---
 
+One of my biggest pet peeves is the description of skills like leadership, communication, and collaboration as "soft skills".
+
+<!-- more -->
 
 One of my biggest pet peeves is the description of skills like leadership, communication, and collaboration as "soft skills".
 
@@ -32,12 +40,26 @@ Almost every situation you will ever find yourself in will involve humans. And i
 
 ### Learning About Humans
 
-- How we are similar
-  - cognitive limitations
-  - needs
+Ok, so if you're with me so far now you probably want to know how to learn more about humans!
 
-- How we are different
-  - experiences
-  - perspectives
-  - goals
+Yay! That's exactly what SpeakWriteListen is about... learning about how people work in order to better communicate with them.
 
+I'll be exploring this topic a lot more over the coming weeks, but here's a three key points
+
+1. All humans have some similar cognitive limitations. We all have [limitations in working memory](https://www.speakwritelisten.com/blog/10-1-seven-plus-or-minus-two/) and tend to [overgeneralize how we view people](https://www.speakwritelisten.com/blog/10-2-the-halo-effect).
+2. All humans also have some similar needs. Even going beyond our physical needs, we [all seek safety, belongingness, and self-esteem](https://www.simplypsychology.org/maslow.html).
+3. All humans have different experiences and goals, which leads to [very different perspectives](https://www.speakwritelisten.com/blog/10-3-perspective-is-priceless)
+
+From these three key points we can figure out a whole lot about how to communicate with people. 
+
+We an explore tactics to best overcome or cater to our common cognitive limitations.
+
+We can dig deep into how stories and different types of language speak to our shared needs.
+
+We can find ways to gain perspective and change our words to speak to someone _else's_ perspective.
+
+I'm excited, and I'm glad you're along for the ride! If there's any particular area of this that speaks to you or makes you curious, send me a quick email and let me know!
+
+---
+
+P.S. There will be no SpeakWriteListen newsletter tomorrow, October 9th because of Yom Kippur. I'll be back with another article on Thursday!
