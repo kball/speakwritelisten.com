@@ -10,6 +10,15 @@ You can read all of my articles, watch videos, learn new mental models... *but* 
 
 But there's something different about communication than a lot of skills we might try to learn...
 
+<!-- more -->
+
+Like any other skill, your communication skills will only get better if you practice them.
+
+You can read all of my articles, watch videos, learn new mental models... *but* if you don't actually try these things out, you won't get better at them.
+
+But there's something different about communication than a lot of skills we might try to learn...
+
+
 It's public.
 
 And because it's public, it's profoundly uncomfortable and you need to set up some forcing functions to get yourself too do it.
