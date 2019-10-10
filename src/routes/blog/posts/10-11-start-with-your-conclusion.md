@@ -1,6 +1,6 @@
 ---
 title: "Start with your conclusion"
-date: "2019-10-10T08:38:00.000Z"
+date: "2019-10-11T08:38:00.000Z"
 category: "daily-tips, speaking, writing"
 ---
 
