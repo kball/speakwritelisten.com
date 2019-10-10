@@ -2,6 +2,7 @@
 title: "A little more about soft and hard skills"
 date: "2019-10-10T08:38:00.000Z"
 category: "daily-tips, speaking, writing, listening"
+twitter: true
 ---
 
 Let's talk a little more about the origin of the 'hard skills / soft skills' classification system.
@@ -12,7 +13,7 @@ Let's talk a little more about the origin of the 'hard skills / soft skills' cla
 
 Thanks to reader Lee F. for pointing out a great twitter thread by [Erika Hall](https://twitter.com/mulegirl):
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So, today let&#39;s talk about skills. <br><br>The terms &quot;hard skills&quot; and &quot;soft skills&quot; were invented by the US military in the 60s and 70s. <br><br>Because people love dichotomous pairs, business culture has accepted this categorization as fact since that time.</p>&mdash; Erika Hall (@mulegirl) <a href="https://twitter.com/mulegirl/status/1181966812990164993?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So, today let&#39;s talk about skills. <br><br>The terms &quot;hard skills&quot; and &quot;soft skills&quot; were invented by the US military in the 60s and 70s. <br><br>Because people love dichotomous pairs, business culture has accepted this categorization as fact since that time.</p>&mdash; Erika Hall (@mulegirl) <a href="https://twitter.com/mulegirl/status/1181966812990164993?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote>
 
 This prompted me to do a little bit more digging on the subject and find a [blog post](https://code.joejag.com/2018/the-origin-of-soft-skills.html) with quotes and links to the original military documents.
 

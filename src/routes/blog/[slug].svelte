@@ -22,6 +22,13 @@
   import ShareButtons from '/components/ShareButtons.svelte';
   export let post
   export let url
+  if (post.twitter) {
+    var s = document.createElement('script')
+    s.type = 'text/javascript'
+    s.async = true
+    s.src = '//platform.twitter.com/widgets.js'
+    document.getElementsByTagName('head')[0].appendChild(s)
+  }
 </script>
 
 <style>
