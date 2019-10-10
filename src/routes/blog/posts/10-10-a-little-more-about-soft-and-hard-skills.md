@@ -29,7 +29,7 @@ Nowhere in this classification system that I could see was a value judgment of '
 
 ### 'Soft' as 'Unteachable'
 
-Another look at this "soft/hard" classification system is in the great Seth Godin's piece [https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb)
+Another look at this "soft/hard" classification system is in the great Seth Godin's piece [Let's stop calling them soft skills](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb)
 
 Seth goes deeper into how "soft/hard" has permeated the business world, reframing "hard" to "vocational skills" (probably a better word than my [original suggestion](https://www.speakwritelisten.com/blog/10-8-human-skills-are-not-soft-skills) of 'technical skills').
 
