@@ -22,7 +22,7 @@
   import ShareButtons from '/components/ShareButtons.svelte';
   export let post
   export let url
-  if (post.twitter) {
+  if (post.twitter && typeof(document) !== 'undefined') {
     var s = document.createElement('script')
     s.type = 'text/javascript'
     s.async = true
