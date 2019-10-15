@@ -1,15 +1,16 @@
 import posts from './blog/_posts.js';
+
 const pages = [
   '',
-  'blog',
-  'about',
-  'newsletter',
+  'blog/',
+  'about/',
+  'newsletter/',
 ]
 
 const render = (pages, categories, posts) => `<?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   ${pages.map(page=> `
-    <url><loc>https://www.speakwritelisten.com/${page}/</loc></url>
+    <url><loc>https://www.speakwritelisten.com/${page}</loc></url>
   `).join('\n')}
   ${categories.map(cat=> `
     <url><loc>https://www.speakwritelisten.com/blog/c/${cat.slug}/</loc></url>
