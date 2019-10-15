@@ -12,7 +12,7 @@ Express appreciation. Directly.
 
 <!-- more -->
 
-Yesterday's article brought up the subject of relationship building in communication.
+Yesterday's article brought up the subject of [relationship building in communication](https://www.speakwritelisten.com/blog/10-14-relationship-layer-in-communication).
 
 On this topic, there's a very simple practice I've been working on for the last few years that I'd like to recommend.
 
