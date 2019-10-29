@@ -44,7 +44,7 @@ const posts = fs.readdirSync(POSTS_DIR)
   .map(fileName => {
     const fileMd = fs.readFileSync(path.join(POSTS_DIR, fileName), 'utf8')
     const { data, content: rawContent } = matter(fileMd)
-    const { title, subtitle, date, category, twitter } = data
+    const { title, subtitle, date, category, twitter, changelog } = data
     const categorySlugs = category.split(",").map(c => c.trim());
     const categories = categorySlugs.map(s => categoryOptions[s])
     const slug = fileName.split('.')[0]
@@ -67,6 +67,7 @@ const posts = fs.readdirSync(POSTS_DIR)
       subtitle: subtitle || '',
       slug,
       twitter,
+      changelog,
       categories,
       html,
       date,

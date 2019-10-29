@@ -29,6 +29,14 @@
     s.src = '//platform.twitter.com/widgets.js'
     document.getElementsByTagName('head')[0].appendChild(s)
   }
+
+  if (post.changelog && typeof(document) !== 'undefined') {
+    var s = document.createElement('script')
+    s.type = 'text/javascript'
+    s.async = true
+    s.src = '//cdn.changelog.com/embed.js'
+    document.getElementsByTagName('head')[0].appendChild(s)
+  }
 </script>
 
 <style>
