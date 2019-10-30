@@ -41,9 +41,9 @@ Even in the rare case where we do correctly anticipate, we jump into our respons
 
 ### Focus building and validating a mental model
 
-Instead of focusing on how we're going to respond, focus first on understanding and [building up a mental model](https://www.speakwritelisten.com/blog/9-17-mental-models-make-better-questions).
+Instead of focusing on how we're going to respond, focus first on understanding and [building up a mental model](https://www.speakwritelisten.com/blog/9-24-mental-models-make-better-questions/).
 
-Let your first responses be questions clarifying that mental model, and as the person you're listening to finishes [check in for understanding](https://www.speakwritelisten.com/blog/9-19-check-in-for-understanding).
+Let your first responses be questions clarifying that mental model, and as the person you're listening to finishes [check in for understanding](https://www.speakwritelisten.com/blog/9-26-check-in-for-understanding).
 
 This approach helps in three ways.
 
