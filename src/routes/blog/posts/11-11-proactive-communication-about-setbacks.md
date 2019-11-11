@@ -3,6 +3,13 @@ title: "Pro-active communication about setbacks (And change to weekly cadence)"
 date: "2019-11-11T08:38:00.000Z"
 category: "speaking, writing, listening, weekly-tips"
 ---
+I owe you an apology - This last week I failed in my commitment to you to send you a tip every weekday.
+
+And worse, I didn't let you know anything about why.
+
+Yes, I was sick and recovering from an illness, but that is no excuse. And it's not really the reason.
+
+<!-- more -->
 
 I owe you an apology - This last week I failed in my commitment to you to send you a tip every weekday.
 
