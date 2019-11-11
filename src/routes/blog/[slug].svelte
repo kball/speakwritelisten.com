@@ -91,7 +91,7 @@
   <hr />
   <ShareButtons url={url} title={post.title} />
   <hr />
-  <p>Like what you read? You might be interested in my daily communication tips. I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.
+  <p>Like what you read? You might be interested in my weekly communication tips. I send out a short email each week with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.
   </p>
   <EmailSignup />
   <hr/>

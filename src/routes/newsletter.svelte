@@ -30,12 +30,12 @@ h1 {
 
 </style>
 <SharedHead title="SpeakWriteListen.com Newsletter"
-  description="A short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve."
+  description="A short email each week with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve."
 />
 
 <div class="container">
-  <h1>Daily Communication Tips</h1>
-  <p>I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
+  <h1>Weekly Communication Tips</h1>
+  <p>I send out a short email each week with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
 
   <EmailSignup />
 
@@ -55,7 +55,7 @@ h1 {
     </div>
   {/each}
 
-  <a href="blog/c/daily-tips">See all &rsaquo;</a>
+  <a href="blog/c/weekly-tips">See all &rsaquo;</a>
   {/if}
 </div>
 

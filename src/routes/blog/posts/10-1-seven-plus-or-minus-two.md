@@ -1,7 +1,7 @@
 ---
 title: "Seven, plus or minus two"
 date: "2019-10-01T08:38:00.000Z"
-category: "daily-tips, speaking, writing"
+category: "weekly-tips, speaking, writing"
 ---
 
 One of the keys to becoming an effective communicator is to understand the limitations of the person you are speaking or writing to.

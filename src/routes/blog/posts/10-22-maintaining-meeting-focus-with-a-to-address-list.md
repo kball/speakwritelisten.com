@@ -1,7 +1,7 @@
 ---
 title: "Maintaining meeting focus with a to-address list"
 date: "2019-10-22T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 There's a super common problem in meetings - meandering scope creep.

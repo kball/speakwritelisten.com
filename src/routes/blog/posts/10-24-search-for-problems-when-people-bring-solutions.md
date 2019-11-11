@@ -1,7 +1,7 @@
 ---
 title: "Search for answers when people bring solutions"
 date: "2019-10-24T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 It's almost cliche that entrepreneurs, designers, and engineers should speak with their customers.

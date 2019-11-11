@@ -1,7 +1,7 @@
 ---
 title: "When struggling to connect, mix up your modes"
 date: "2019-10-30T08:38:00.000Z"
-category: "speaking, writing, daily-tips"
+category: "speaking, writing, weekly-tips"
 ---
 Different people perceive things in different ways.
 

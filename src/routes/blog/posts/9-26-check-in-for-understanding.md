@@ -1,7 +1,7 @@
 ---
 title: Check in for understanding
 date: "2019-09-26T08:38:00.000Z"
-category: "daily-tips, listening"
+category: "weekly-tips, listening"
 ---
 
 Language is so imprecise a tool for communicating. We're trying to get ideas across, but all we have are words that imperfectly represent those ideas.

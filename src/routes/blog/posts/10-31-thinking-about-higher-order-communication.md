@@ -1,7 +1,7 @@
 ---
 title: "Thinking about higher order communication"
 date: "2019-10-31T08:38:00.000Z"
-category: "speaking, writing, listening, daily-tips"
+category: "speaking, writing, listening, weekly-tips"
 ---
 I've written a few updates recently that have talked about exploring different types of communication.
 

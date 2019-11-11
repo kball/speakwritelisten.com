@@ -1,7 +1,7 @@
 ---
 title: "Creating shared languages"
 date: "2019-10-17T08:38:00.000Z"
-category: "daily-tips, speaking, writing, listening"
+category: "weekly-tips, speaking, writing, listening"
 ---
 
 One of the challenging things about communication skills at work, particularly in creative jobs like design or software engineering, is that we're frequently bridging between different areas of specialization.

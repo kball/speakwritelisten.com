@@ -1,7 +1,7 @@
 ---
 title: "The MAP Model for how people perceive"
 date: "2019-10-04T08:38:00.000Z"
-category: "daily-tips, speaking, writing"
+category: "weekly-tips, speaking, writing"
 ---
 I used to struggle a lot when trying to communicate.
 

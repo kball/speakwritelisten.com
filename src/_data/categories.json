@@ -3,9 +3,9 @@
     "slug": "general",
     "name": "General"
   },
-  "daily-tips": {
-    "slug": "daily-tips",
-    "name": "Daily Tips"
+  "weekly-tips": {
+    "slug": "weekly-tips",
+    "name": "Weekly Tips"
   },
   "speaking": {
     "slug": "speaking",

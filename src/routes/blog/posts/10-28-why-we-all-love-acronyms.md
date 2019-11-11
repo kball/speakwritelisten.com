@@ -1,7 +1,7 @@
 ---
 title: "Why we all love acronyms"
 date: "2019-10-28T08:38:00.000Z"
-category: "daily-tips, speaking, writing"
+category: "weekly-tips, speaking, writing"
 ---
 
 Why do people love acronyms so much?

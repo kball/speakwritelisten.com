@@ -1,7 +1,7 @@
 ---
 title: "The power of 'Yes And'"
 date: "2019-11-04T08:38:00.000Z"
-category: "speaking, writing, listening, daily-tips"
+category: "speaking, writing, listening, weekly-tips"
 ---
 I was reading The Manager's Path by Camille Fournier and found this gem on page 111:
 

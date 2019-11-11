@@ -1,7 +1,7 @@
 ---
 title: "Practice Forcing Functions for Communication Skills"
 date: "2019-10-07T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 Like any other skill, your communication skills will only get better if you practice them.

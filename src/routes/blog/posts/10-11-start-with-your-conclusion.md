@@ -1,7 +1,7 @@
 ---
 title: "Start with your conclusion"
 date: "2019-10-11T08:38:00.000Z"
-category: "daily-tips, speaking, writing"
+category: "weekly-tips, speaking, writing"
 ---
 
 Have you ever had to do some research, an analysis, or a post-mortem and present your conclusions?

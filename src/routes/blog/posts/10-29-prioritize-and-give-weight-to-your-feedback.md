@@ -1,7 +1,7 @@
 ---
 title: "Prioritize and give weight to your feedback"
 date: "2019-10-29T15:38:00.000Z"
-category: "speaking, writing, daily-tips"
+category: "speaking, writing, weekly-tips"
 ---
 I just published a post drawing out communication lessons specifically for software developers, derived from a podcast episode. There's a lot of great stuff in there, so go check it out, but today I want to draw out one particular lesson in more detail.
 

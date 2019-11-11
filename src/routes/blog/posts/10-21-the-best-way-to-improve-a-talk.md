@@ -1,7 +1,7 @@
 ---
 title: "The best way to improve a talk"
 date: "2019-10-21T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 How do you get better at speaking in front of people?

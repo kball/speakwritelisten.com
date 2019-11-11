@@ -1,7 +1,7 @@
 ---
 title: "Human Skills Are Not Soft Skills"
 date: "2019-10-08T08:38:00.000Z"
-category: "daily-tips, speaking, writing, listening"
+category: "weekly-tips, speaking, writing, listening"
 ---
 
 One of my biggest pet peeves is the description of skills like leadership, communication, and collaboration as "soft skills".

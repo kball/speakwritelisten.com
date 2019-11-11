@@ -1,7 +1,7 @@
 ---
 title: "The Halo Effect"
 date: "2019-10-02T08:38:00.000Z"
-category: "daily-tips, speaking, writing"
+category: "weekly-tips, speaking, writing"
 ---
 
 The halo effect is a universal human bias that is important to understand to master communication.

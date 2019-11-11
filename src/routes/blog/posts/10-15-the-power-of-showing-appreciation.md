@@ -1,7 +1,7 @@
 ---
 title: "The power of showing appreciation"
 date: "2019-10-15T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 Yesterday's article brought up the subject of relationship building in communication.

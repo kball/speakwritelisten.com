@@ -1,7 +1,7 @@
 ---
 title: "Perspective is Priceless"
 date: "2019-10-03T08:38:00.000Z"
-category: "daily-tips, speaking, writing, listening"
+category: "weekly-tips, speaking, writing, listening"
 ---
 
 Have you ever tried to convince someone of something and they looked at you like you were crazy?

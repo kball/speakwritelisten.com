@@ -1,7 +1,7 @@
 ---
 title: "Get rid of 'why'"
 date: "2019-09-25T15:00:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 I used to think that "how" I said something shouldn't matter. What should matter was the meaning behind what I was saying.

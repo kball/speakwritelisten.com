@@ -1,7 +1,7 @@
 ---
 title: "Capturing ideas from stakeholders"
 date: "2019-10-23T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 In yesterday's post I talked about using a 'to-address list' to maintain focus in meetings.
 

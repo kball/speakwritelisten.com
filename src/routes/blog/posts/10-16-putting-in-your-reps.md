@@ -1,7 +1,7 @@
 ---
 title: "Overcoming fear of speaking by putting in your reps"
 date: "2019-10-16T08:38:00.000Z"
-category: "daily-tips, speaking"
+category: "weekly-tips, speaking"
 ---
 
 Public speaking is the number 1 most common fear, more common than fear of death.

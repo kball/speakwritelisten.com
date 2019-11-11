@@ -113,8 +113,8 @@ import SharedHead from '/components/SharedHead.svelte';
 </div>
 </div>
 <div class="container prompt">
-  <h3>Get Daily Communication Tips</h3>
-  <p>I send out a short email each weekday with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
+  <h3>Get Weekly Communication Tips</h3>
+  <p>I send out a short email each week with communication tips, tactic, mental models, and ideas for improvement.  No fluff, all focused on helping you improve.</p>
    <EmailSignup/>
  </div>
 

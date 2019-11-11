@@ -1,7 +1,7 @@
 ---
 title: "The relationship layer in communication"
 date: "2019-10-14T08:38:00.000Z"
-category: "daily-tips, speaking, writing, listening"
+category: "weekly-tips, speaking, writing, listening"
 ---
 
 What's the point of small talk?

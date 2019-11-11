@@ -1,7 +1,7 @@
 ---
 title: "A little more about soft and hard skills"
 date: "2019-10-10T08:38:00.000Z"
-category: "daily-tips, speaking, writing, listening"
+category: "weekly-tips, speaking, writing, listening"
 twitter: true
 ---
 

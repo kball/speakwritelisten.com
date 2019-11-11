@@ -1,7 +1,7 @@
 ---
 title: "Don't focus on your response"
 date: "2019-09-27T08:38:00.000Z"
-category: "daily-tips, listening"
+category: "weekly-tips, listening"
 ---
 
 When listening to someone say something that you disagree with, it's super common to start thinking about how you're going to respond.
