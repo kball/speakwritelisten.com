@@ -23,7 +23,7 @@
   export let post
   export let url
   if (post.twitter && typeof(document) !== 'undefined') {
-    var s = document.createElement('script')
+    let s = document.createElement('script')
     s.type = 'text/javascript'
     s.async = true
     s.src = '//platform.twitter.com/widgets.js'
@@ -31,7 +31,7 @@
   }
 
   if (post.changelog && typeof(document) !== 'undefined') {
-    var s = document.createElement('script')
+    let s = document.createElement('script')
     s.type = 'text/javascript'
     s.async = true
     s.src = '//cdn.changelog.com/embed.js'
@@ -39,7 +39,7 @@
   }
 </script>
 
-<style>
+<style type="scss">
   header {
     text-align: center;
   }

@@ -1,7 +1,7 @@
 <script>
 
 </script>
-<style type="text/sass">
+<style type="scss">
   @media (min-width: 640px) {
     .email-field-group {
       display: flex;

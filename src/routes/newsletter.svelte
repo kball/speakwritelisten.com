@@ -12,10 +12,12 @@
   import EmailSignup from '../components/EmailSignup.svelte';
 </script>
 
-<style type="text/sass">
+<style type="scss">
+
 h1 {
   font-size: 2rem;
 }
+
 .post-item-footer {
   font-family: Rubik, sans-serif;
   font-weight: 700;
