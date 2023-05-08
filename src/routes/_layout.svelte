@@ -53,7 +53,7 @@
   <footer>
     <span>
       &copy; {new Date().getFullYear()} SpeakWriteListen.com.
-      A project of <a href="https://zendev.com" target="_blank">ZenDev, LLC</a>.
+      A project of <a href="https://www.kball.llc" target="_blank">KBall, LLC</a>.
     </span>
   </footer>
 </div>
